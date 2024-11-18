@@ -1,4 +1,4 @@
-#Markdown lesson
+# Markdown lesson
 **Goal**: The goal for this lesson is to show how simple Markdown is to read and write by displaying a text written in Markdown and what it looks like when it is rendered in a browser.
 
 **What is Markdown?**
@@ -14,5 +14,5 @@ A **README** is how we document our code, give specific instructions on how to r
 
 There are many sites that offer instructions on how to write Markdown. Here is a list:
 
-[Mastering Markdown](https://guides.github.com/features/mastering-markdown)
-[Daring Fireball](https://daringfireball.net/projects/markdown/syntax)
+* [Mastering Markdown](https://guides.github.com/features/mastering-markdown)
+* [Daring Fireball](https://daringfireball.net/projects/markdown/syntax)
